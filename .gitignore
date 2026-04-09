@@ -1,7 +1,6 @@
 # Data and experiment outputs
 Datasets/
 experiments/
-figures/
 
 # Model artifacts and checkpoints
 *.pth
@@ -37,7 +36,6 @@ env/
 
 # Large generated documents/media
 *.pptx
-*.png
 *.jpg
 *.jpeg
 *.webp
