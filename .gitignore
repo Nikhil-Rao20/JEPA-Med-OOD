@@ -37,7 +37,6 @@ env/
 
 # Large generated documents/media
 *.pptx
-*.pdf
 *.png
 *.jpg
 *.jpeg
