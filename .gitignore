@@ -37,5 +37,4 @@ env/
 # Large generated documents/media
 *.pptx
 *.jpg
-*.jpeg
 *.webp
